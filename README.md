@@ -315,7 +315,7 @@ AI use in research is at an inflection point. Regulatory pressure on AI transpar
 
 ## Built By
 
-**Pranav Bhave** | Penn State Engineering  
+**PRANAV BHAVE** | Penn State Engineering  
 GitHub: [@Cubits11](https://github.com/Cubits11)  
 Research: CC-Framework, Ghost Protocol, Resonance Theory, Guardrail Composability  
 
